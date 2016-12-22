@@ -1,0 +1,89 @@
+appID,title,week,pos,neg,pospercentage,nr_observations
+317469184,ESPN,16.0,,,,0.0
+317469184,ESPN,17.0,,,,0.0
+317469184,ESPN,18.0,113,62,0.6384180790960452,177.0
+317469184,ESPN,19.0,,,,0.0
+317469184,ESPN,20.0,,,,0.0
+317469184,ESPN,21.0,,,,0.0
+317469184,ESPN,22.0,107,91,0.535,200.0
+317469184,ESPN,23.0,71,27,0.71,100.0
+766443283,FlashScore,16.0,,,,0.0
+766443283,FlashScore,17.0,,,,0.0
+766443283,FlashScore,18.0,49,21,0.6805555555555556,72.0
+766443283,FlashScore,19.0,0,,0.0,1.0
+766443283,FlashScore,20.0,1,,0.5,2.0
+766443283,FlashScore,21.0,2,,0.6666666666666666,3.0
+766443283,FlashScore,22.0,0,,0.0,1.0
+766443283,FlashScore,23.0,,,,0.0
+388491656,Fly Delta,16.0,19,29,0.38,50.0
+388491656,Fly Delta,17.0,19,26,0.40425531914893614,47.0
+388491656,Fly Delta,18.0,21,43,0.3181818181818182,66.0
+388491656,Fly Delta,19.0,,,,0.0
+388491656,Fly Delta,20.0,32,42,0.42105263157894735,76.0
+388491656,Fly Delta,21.0,15,14,0.4838709677419355,31.0
+388491656,Fly Delta,22.0,4,10,0.25,16.0
+388491656,Fly Delta,23.0,,,,0.0
+585027354,Google Maps,16.0,64,34,0.64,100.0
+585027354,Google Maps,17.0,,,,0.0
+585027354,Google Maps,18.0,,,,0.0
+585027354,Google Maps,19.0,,,,0.0
+585027354,Google Maps,20.0,,,,0.0
+585027354,Google Maps,21.0,35,13,0.7,50.0
+585027354,Google Maps,22.0,,,,0.0
+585027354,Google Maps,23.0,,,,0.0
+498477945,Moovit: Bus Train Metro Subway - Live Transit App with Map Schedules and Next Bus,16.0,,,,0.0
+498477945,Moovit: Bus Train Metro Subway - Live Transit App with Map Schedules and Next Bus,17.0,,,,0.0
+498477945,Moovit: Bus Train Metro Subway - Live Transit App with Map Schedules and Next Bus,18.0,,,,0.0
+498477945,Moovit: Bus Train Metro Subway - Live Transit App with Map Schedules and Next Bus,19.0,37,11,0.74,50.0
+498477945,Moovit: Bus Train Metro Subway - Live Transit App with Map Schedules and Next Bus,20.0,11,7,0.55,20.0
+498477945,Moovit: Bus Train Metro Subway - Live Transit App with Map Schedules and Next Bus,21.0,11,2,0.7333333333333333,15.0
+498477945,Moovit: Bus Train Metro Subway - Live Transit App with Map Schedules and Next Bus,22.0,71,44,0.6068376068376068,117.0
+498477945,Moovit: Bus Train Metro Subway - Live Transit App with Map Schedules and Next Bus,23.0,64,34,0.64,100.0
+431497717,Roomie Remote \u2013 Universal Remote Control,16.0,2,,0.6666666666666666,3.0
+431497717,Roomie Remote \u2013 Universal Remote Control,17.0,6,,0.8571428571428571,7.0
+431497717,Roomie Remote \u2013 Universal Remote Control,18.0,0,0,0.0,2.0
+431497717,Roomie Remote \u2013 Universal Remote Control,19.0,0,0,0.0,2.0
+431497717,Roomie Remote \u2013 Universal Remote Control,20.0,6,,0.8571428571428571,7.0
+431497717,Roomie Remote \u2013 Universal Remote Control,21.0,,,,0.0
+431497717,Roomie Remote \u2013 Universal Remote Control,22.0,0,2,0.0,4.0
+431497717,Roomie Remote \u2013 Universal Remote Control,23.0,4,0,0.6666666666666666,6.0
+300235330,"RunKeeper - GPS Running, Walk, Cycling, Workout and Weight Tracker",16.0,,,,0.0
+300235330,"RunKeeper - GPS Running, Walk, Cycling, Workout and Weight Tracker",17.0,,,,0.0
+300235330,"RunKeeper - GPS Running, Walk, Cycling, Workout and Weight Tracker",18.0,,,,0.0
+300235330,"RunKeeper - GPS Running, Walk, Cycling, Workout and Weight Tracker",19.0,173,25,0.865,200.0
+300235330,"RunKeeper - GPS Running, Walk, Cycling, Workout and Weight Tracker",20.0,,,,0.0
+300235330,"RunKeeper - GPS Running, Walk, Cycling, Workout and Weight Tracker",21.0,,,,0.0
+300235330,"RunKeeper - GPS Running, Walk, Cycling, Workout and Weight Tracker",22.0,,,,0.0
+300235330,"RunKeeper - GPS Running, Walk, Cycling, Workout and Weight Tracker",23.0,,,,0.0
+333210180,Running and Walking with Endomondo,16.0,26,8,0.7222222222222222,36.0
+333210180,Running and Walking with Endomondo,17.0,,,,0.0
+333210180,Running and Walking with Endomondo,18.0,10,1,0.7692307692307693,13.0
+333210180,Running and Walking with Endomondo,19.0,,,,0.0
+333210180,Running and Walking with Endomondo,20.0,,,,0.0
+333210180,Running and Walking with Endomondo,21.0,7,2,0.6363636363636364,11.0
+333210180,Running and Walking with Endomondo,22.0,,,,0.0
+333210180,Running and Walking with Endomondo,23.0,,,,0.0
+336599882,"Runtastic GPS Running, Walking, Jogging, Fitness Distance Tracker and Marathon Training",16.0,42,6,0.84,50.0
+336599882,"Runtastic GPS Running, Walking, Jogging, Fitness Distance Tracker and Marathon Training",17.0,,,,0.0
+336599882,"Runtastic GPS Running, Walking, Jogging, Fitness Distance Tracker and Marathon Training",18.0,38,10,0.76,50.0
+336599882,"Runtastic GPS Running, Walking, Jogging, Fitness Distance Tracker and Marathon Training",19.0,13,1,0.8125,16.0
+336599882,"Runtastic GPS Running, Walking, Jogging, Fitness Distance Tracker and Marathon Training",20.0,,,,0.0
+336599882,"Runtastic GPS Running, Walking, Jogging, Fitness Distance Tracker and Marathon Training",21.0,53,8,0.8412698412698413,63.0
+336599882,"Runtastic GPS Running, Walking, Jogging, Fitness Distance Tracker and Marathon Training",22.0,23,3,0.8214285714285714,28.0
+336599882,"Runtastic GPS Running, Walking, Jogging, Fitness Distance Tracker and Marathon Training",23.0,46,7,0.8363636363636363,55.0
+498151501,Transit App: Real Time Bus & Subway Tracker with Offline Schedules,16.0,,,,0.0
+498151501,Transit App: Real Time Bus & Subway Tracker with Offline Schedules,17.0,,,,0.0
+498151501,Transit App: Real Time Bus & Subway Tracker with Offline Schedules,18.0,,,,0.0
+498151501,Transit App: Real Time Bus & Subway Tracker with Offline Schedules,19.0,41,7,0.82,50.0
+498151501,Transit App: Real Time Bus & Subway Tracker with Offline Schedules,20.0,,,,0.0
+498151501,Transit App: Real Time Bus & Subway Tracker with Offline Schedules,21.0,39,9,0.78,50.0
+498151501,Transit App: Real Time Bus & Subway Tracker with Offline Schedules,22.0,7,4,0.5384615384615384,13.0
+498151501,Transit App: Real Time Bus & Subway Tracker with Offline Schedules,23.0,14,4,0.7,20.0
+858846387,WestJet,16.0,,,,0.0
+858846387,WestJet,17.0,,,,0.0
+858846387,WestJet,18.0,,,,0.0
+858846387,WestJet,19.0,,,,0.0
+858846387,WestJet,20.0,,,,0.0
+858846387,WestJet,21.0,,,,0.0
+858846387,WestJet,22.0,0,2,0.0,4.0
+858846387,WestJet,23.0,,,,0.0

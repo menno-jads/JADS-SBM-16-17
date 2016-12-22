@@ -1,0 +1,57 @@
+appID,title,week,pos,neg,pospercentage,nr_observations
+382698565,American Airlines,16.0,,,,0.0
+382698565,American Airlines,17.0,46,78,0.36507936507936506,126.0
+382698565,American Airlines,18.0,,,,0.0
+382698565,American Airlines,19.0,19,28,0.3877551020408163,49.0
+382698565,American Airlines,20.0,22,15,0.5641025641025641,39.0
+382698565,American Airlines,21.0,8,13,0.34782608695652173,23.0
+382698565,American Airlines,22.0,6,7,0.4,15.0
+382698565,American Airlines,23.0,,,,0.0
+469463298,Citymapper - the ultimate real time transit app,16.0,,,,0.0
+469463298,Citymapper - the ultimate real time transit app,17.0,45,11,0.7758620689655172,58.0
+469463298,Citymapper - the ultimate real time transit app,18.0,,,,0.0
+469463298,Citymapper - the ultimate real time transit app,19.0,,,,0.0
+469463298,Citymapper - the ultimate real time transit app,20.0,7,4,0.5384615384615384,13.0
+469463298,Citymapper - the ultimate real time transit app,21.0,11,6,0.5789473684210527,19.0
+469463298,Citymapper - the ultimate real time transit app,22.0,2,2,0.3333333333333333,6.0
+469463298,Citymapper - the ultimate real time transit app,23.0,4,2,0.5,8.0
+880332077,Honeywell Lyric,16.0,,,,0.0
+880332077,Honeywell Lyric,17.0,,,,0.0
+880332077,Honeywell Lyric,18.0,,,,0.0
+880332077,Honeywell Lyric,19.0,,,,0.0
+880332077,Honeywell Lyric,20.0,2,,0.6666666666666666,3.0
+880332077,Honeywell Lyric,21.0,,,,0.0
+880332077,Honeywell Lyric,22.0,,,,0.0
+880332077,Honeywell Lyric,23.0,,,,0.0
+415374545,Lutron Home Control+,16.0,0,,0.0,1.0
+415374545,Lutron Home Control+,17.0,,,,0.0
+415374545,Lutron Home Control+,18.0,,,,0.0
+415374545,Lutron Home Control+,19.0,,0,,1.0
+415374545,Lutron Home Control+,20.0,,,,0.0
+415374545,Lutron Home Control+,21.0,0,0,0.0,2.0
+415374545,Lutron Home Control+,22.0,0,2,0.0,4.0
+415374545,Lutron Home Control+,23.0,,,,0.0
+493619333,MLB.com At Bat,16.0,,,,0.0
+493619333,MLB.com At Bat,17.0,29,19,0.58,50.0
+493619333,MLB.com At Bat,18.0,18,10,0.6,30.0
+493619333,MLB.com At Bat,19.0,,,,0.0
+493619333,MLB.com At Bat,20.0,,,,0.0
+493619333,MLB.com At Bat,21.0,,,,0.0
+493619333,MLB.com At Bat,22.0,24,24,0.48,50.0
+493619333,MLB.com At Bat,23.0,26,25,0.49056603773584906,53.0
+387771637,Nike+ Running,16.0,74,24,0.74,100.0
+387771637,Nike+ Running,17.0,,,,0.0
+387771637,Nike+ Running,18.0,,,,0.0
+387771637,Nike+ Running,19.0,191,215,0.4681372549019608,408.0
+387771637,Nike+ Running,20.0,,,,0.0
+387771637,Nike+ Running,21.0,56,42,0.56,100.0
+387771637,Nike+ Running,22.0,34,14,0.68,50.0
+387771637,Nike+ Running,23.0,33,14,0.673469387755102,49.0
+312306003,SPG: Starwood Hotels & Resorts,16.0,,,,0.0
+312306003,SPG: Starwood Hotels & Resorts,17.0,,,,0.0
+312306003,SPG: Starwood Hotels & Resorts,18.0,,,,0.0
+312306003,SPG: Starwood Hotels & Resorts,19.0,23,25,0.46,50.0
+312306003,SPG: Starwood Hotels & Resorts,20.0,,,,0.0
+312306003,SPG: Starwood Hotels & Resorts,21.0,,,,0.0
+312306003,SPG: Starwood Hotels & Resorts,22.0,34,14,0.68,50.0
+312306003,SPG: Starwood Hotels & Resorts,23.0,,,,0.0

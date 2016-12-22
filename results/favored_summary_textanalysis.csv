@@ -1,0 +1,15 @@
+id,title,pre_or_post,mean_of_percentage,improvement
+382698565,American Airlines,pre,0.37142857142857144,False
+382698565,American Airlines,post,0.3684210526315789,False
+469463298,Citymapper - the ultimate real time transit app,pre,0.7758620689655172,False
+469463298,Citymapper - the ultimate real time transit app,post,0.5151515151515151,False
+880332077,Honeywell Lyric,pre,,False
+880332077,Honeywell Lyric,post,,False
+415374545,Lutron Home Control+,pre,0.0,False
+415374545,Lutron Home Control+,post,0.0,False
+493619333,MLB.com At Bat,pre,0.5875,False
+493619333,MLB.com At Bat,post,0.4854368932038835,False
+387771637,Nike+ Running,pre,0.5216535433070866,True
+387771637,Nike+ Running,post,0.6180904522613065,True
+312306003,SPG: Starwood Hotels & Resorts,pre,0.46,True
+312306003,SPG: Starwood Hotels & Resorts,post,0.68,True

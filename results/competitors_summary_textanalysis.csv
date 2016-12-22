@@ -1,0 +1,23 @@
+id,title,pre_or_post,mean_of_percentage,improvement
+317469184,ESPN,pre,0.6384180790960452,False
+317469184,ESPN,post,0.5933333333333334,False
+766443283,FlashScore,pre,0.6712328767123288,False
+766443283,FlashScore,post,0.5,False
+388491656,Fly Delta,pre,0.3619631901840491,True
+388491656,Fly Delta,post,0.40425531914893614,True
+585027354,Google Maps,pre,0.64,True
+585027354,Google Maps,post,0.7,True
+498477945,Moovit: Bus Train Metro Subway - Live Transit App with Map Schedules and Next Bus,pre,0.74,False
+498477945,Moovit: Bus Train Metro Subway - Live Transit App with Map Schedules and Next Bus,post,0.6293103448275862,False
+431497717,Roomie Remote \u2013 Universal Remote Control,pre,0.5714285714285714,False
+431497717,Roomie Remote \u2013 Universal Remote Control,post,0.4,False
+300235330,"RunKeeper - GPS Running, Walk, Cycling, Workout and Weight Tracker",pre,0.865,False
+300235330,"RunKeeper - GPS Running, Walk, Cycling, Workout and Weight Tracker",post,,False
+333210180,Running and Walking with Endomondo,pre,0.7346938775510204,False
+333210180,Running and Walking with Endomondo,post,0.6363636363636364,False
+336599882,"Runtastic GPS Running, Walking, Jogging, Fitness Distance Tracker and Marathon Training",pre,0.8017241379310345,True
+336599882,"Runtastic GPS Running, Walking, Jogging, Fitness Distance Tracker and Marathon Training",post,0.8356164383561644,True
+498151501,Transit App: Real Time Bus & Subway Tracker with Offline Schedules,pre,0.82,False
+498151501,Transit App: Real Time Bus & Subway Tracker with Offline Schedules,post,0.7228915662650602,False
+858846387,WestJet,pre,,False
+858846387,WestJet,post,0.0,False

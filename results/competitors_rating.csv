@@ -1,0 +1,89 @@
+id,title,week,nr_observations,week_mean
+317469184,ESPN,16.0,,
+317469184,ESPN,17.0,,
+317469184,ESPN,18.0,177,3.384180790960452
+317469184,ESPN,19.0,,
+317469184,ESPN,20.0,,
+317469184,ESPN,21.0,,
+317469184,ESPN,22.0,200,1.98
+317469184,ESPN,23.0,100,3.96
+766443283,FlashScore,16.0,,
+766443283,FlashScore,17.0,,
+766443283,FlashScore,18.0,72,3.5694444444444446
+766443283,FlashScore,19.0,1,5.0
+766443283,FlashScore,20.0,2,5.0
+766443283,FlashScore,21.0,3,5.0
+766443283,FlashScore,22.0,1,5.0
+766443283,FlashScore,23.0,,
+388491656,Fly Delta,16.0,50,1.82
+388491656,Fly Delta,17.0,47,1.5319148936170213
+388491656,Fly Delta,18.0,66,1.6666666666666667
+388491656,Fly Delta,19.0,,
+388491656,Fly Delta,20.0,76,1.5789473684210527
+388491656,Fly Delta,21.0,31,1.967741935483871
+388491656,Fly Delta,22.0,16,1.9375
+388491656,Fly Delta,23.0,,
+585027354,Google Maps,16.0,100,3.95
+585027354,Google Maps,17.0,,
+585027354,Google Maps,18.0,,
+585027354,Google Maps,19.0,,
+585027354,Google Maps,20.0,,
+585027354,Google Maps,21.0,50,3.64
+585027354,Google Maps,22.0,,
+585027354,Google Maps,23.0,,
+498477945,Moovit: Bus Train Metro Subway - Live Transit App with Map Schedules and Next Bus,16.0,,
+498477945,Moovit: Bus Train Metro Subway - Live Transit App with Map Schedules and Next Bus,17.0,,
+498477945,Moovit: Bus Train Metro Subway - Live Transit App with Map Schedules and Next Bus,18.0,,
+498477945,Moovit: Bus Train Metro Subway - Live Transit App with Map Schedules and Next Bus,19.0,50,4.18
+498477945,Moovit: Bus Train Metro Subway - Live Transit App with Map Schedules and Next Bus,20.0,20,3.55
+498477945,Moovit: Bus Train Metro Subway - Live Transit App with Map Schedules and Next Bus,21.0,15,4.0
+498477945,Moovit: Bus Train Metro Subway - Live Transit App with Map Schedules and Next Bus,22.0,117,2.905982905982906
+498477945,Moovit: Bus Train Metro Subway - Live Transit App with Map Schedules and Next Bus,23.0,100,3.14
+431497717,Roomie Remote \u2013 Universal Remote Control,16.0,3,5.0
+431497717,Roomie Remote \u2013 Universal Remote Control,17.0,7,4.142857142857143
+431497717,Roomie Remote \u2013 Universal Remote Control,18.0,2,5.0
+431497717,Roomie Remote \u2013 Universal Remote Control,19.0,2,3.5
+431497717,Roomie Remote \u2013 Universal Remote Control,20.0,7,4.0
+431497717,Roomie Remote \u2013 Universal Remote Control,21.0,,
+431497717,Roomie Remote \u2013 Universal Remote Control,22.0,4,1.5
+431497717,Roomie Remote \u2013 Universal Remote Control,23.0,6,3.6666666666666665
+300235330,"RunKeeper - GPS Running, Walk, Cycling, Workout and Weight Tracker",16.0,,
+300235330,"RunKeeper - GPS Running, Walk, Cycling, Workout and Weight Tracker",17.0,,
+300235330,"RunKeeper - GPS Running, Walk, Cycling, Workout and Weight Tracker",18.0,,
+300235330,"RunKeeper - GPS Running, Walk, Cycling, Workout and Weight Tracker",19.0,200,4.64
+300235330,"RunKeeper - GPS Running, Walk, Cycling, Workout and Weight Tracker",20.0,,
+300235330,"RunKeeper - GPS Running, Walk, Cycling, Workout and Weight Tracker",21.0,,
+300235330,"RunKeeper - GPS Running, Walk, Cycling, Workout and Weight Tracker",22.0,,
+300235330,"RunKeeper - GPS Running, Walk, Cycling, Workout and Weight Tracker",23.0,,
+333210180,Running and Walking with Endomondo,16.0,36,3.2777777777777777
+333210180,Running and Walking with Endomondo,17.0,,
+333210180,Running and Walking with Endomondo,18.0,13,4.6923076923076925
+333210180,Running and Walking with Endomondo,19.0,,
+333210180,Running and Walking with Endomondo,20.0,,
+333210180,Running and Walking with Endomondo,21.0,11,4.090909090909091
+333210180,Running and Walking with Endomondo,22.0,,
+333210180,Running and Walking with Endomondo,23.0,,
+336599882,"Runtastic GPS Running, Walking, Jogging, Fitness Distance Tracker and Marathon Training",16.0,50,4.38
+336599882,"Runtastic GPS Running, Walking, Jogging, Fitness Distance Tracker and Marathon Training",17.0,,
+336599882,"Runtastic GPS Running, Walking, Jogging, Fitness Distance Tracker and Marathon Training",18.0,50,4.4
+336599882,"Runtastic GPS Running, Walking, Jogging, Fitness Distance Tracker and Marathon Training",19.0,16,4.4375
+336599882,"Runtastic GPS Running, Walking, Jogging, Fitness Distance Tracker and Marathon Training",20.0,,
+336599882,"Runtastic GPS Running, Walking, Jogging, Fitness Distance Tracker and Marathon Training",21.0,63,4.349206349206349
+336599882,"Runtastic GPS Running, Walking, Jogging, Fitness Distance Tracker and Marathon Training",22.0,28,4.821428571428571
+336599882,"Runtastic GPS Running, Walking, Jogging, Fitness Distance Tracker and Marathon Training",23.0,55,4.581818181818182
+498151501,Transit App: Real Time Bus & Subway Tracker with Offline Schedules,16.0,,
+498151501,Transit App: Real Time Bus & Subway Tracker with Offline Schedules,17.0,,
+498151501,Transit App: Real Time Bus & Subway Tracker with Offline Schedules,18.0,,
+498151501,Transit App: Real Time Bus & Subway Tracker with Offline Schedules,19.0,50,4.12
+498151501,Transit App: Real Time Bus & Subway Tracker with Offline Schedules,20.0,,
+498151501,Transit App: Real Time Bus & Subway Tracker with Offline Schedules,21.0,50,4.1
+498151501,Transit App: Real Time Bus & Subway Tracker with Offline Schedules,22.0,13,4.461538461538462
+498151501,Transit App: Real Time Bus & Subway Tracker with Offline Schedules,23.0,20,3.95
+858846387,WestJet,16.0,,
+858846387,WestJet,17.0,,
+858846387,WestJet,18.0,,
+858846387,WestJet,19.0,,
+858846387,WestJet,20.0,,
+858846387,WestJet,21.0,,
+858846387,WestJet,22.0,4,2.25
+858846387,WestJet,23.0,,
